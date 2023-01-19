@@ -4,3 +4,5 @@
 #### Line 4
 ##### Line 5
 ###### Line 6 Spider IV
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
